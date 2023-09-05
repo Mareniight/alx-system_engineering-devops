@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /tmp/my_first_directory
+tail -n 1 iacta >> iacta
